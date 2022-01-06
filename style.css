@@ -1,0 +1,111 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+}
+
+#h{
+    width: 80%;
+    color: blue;
+}
+
+#header-of-ban{
+    text-align: center;
+    font-size: 2rem;
+    color: green;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.main-div > .sub-div{
+    justify-content: center;
+    display: flex;
+}
+
+.sub-div{
+    padding: 50px;
+    padding-bottom: 200px;
+}
+
+.first-div{
+    padding: 70px;
+    text-align: justify;
+}
+.d-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+/* second part */
+
+.second-main-div h1{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.Dhaka1{
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 12px gray;
+    text-align: center;
+}
+
+.div-iamge img{
+    width: 100%;
+    box-shadow: 4px 4px 12px gray;
+    height: 150px;
+}
+
+.khulna{
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 12px gray;
+    text-align: center;
+}
+
+.div-image2 img{
+    width: 100%;
+    box-shadow: 4px 4px 12px gray;
+}
+
+.jashore{
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 12px gray;
+    text-align: center;
+}
+
+.div-image3 img{
+    width: 100%;
+    box-shadow: 4px 4px 12px gray;
+}
+
+.d-bt{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: green;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.all-div{
+    display: flex;
+    justify-content:space-around;
+    padding-bottom: 30px;
+}
+
+#just-h{
+    color: yellowgreen;
+    width: 90%;
+}
+
+h4{
+    text-align: center;
+    padding: 50px 0px;
+}
